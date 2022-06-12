@@ -1,0 +1,9 @@
+mysql-connector-python>=8.0.27
+pytelegrambotapi>=4.1.1
+
+[testing]
+tox>=3.25.0
+pytest>=7.1.0
+pytest-cov>=3.0.0
+mypy>=0.960
+flake8>=4.0.1
