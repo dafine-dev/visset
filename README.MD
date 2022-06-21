@@ -1,0 +1,1 @@
+Telegram bot intended to for uploading, finding and sharing public internet content easily.

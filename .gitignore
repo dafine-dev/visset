@@ -1,13 +1,7 @@
 **/__pycache__/
-
-
 venv/
-
-
 .coverage
-
-
-src/sideral.egg-info
-
-
+src/visset.egg-info/
 .pytest_cache
+application.conf
+htmlcov/

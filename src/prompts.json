@@ -1,0 +1,40 @@
+[
+    {
+        "inner_name" : "portuguese",
+        "view_name" : "Português",
+        "prompts" : {
+            "start" : "Para começar, envie uma descrição ou mídia (foto, vídeo, gif, figurinha) ou ambos para salvar.",
+            "send_description" : "Envie uma mensagem com a descrição para essa mídia.",
+            "send_media" : "Envie a mídia (foto, vídeo, gif, figurinha) descrita pela mensagem.'",
+            "description_updated" : "Descrição alterada!'",
+            "media_updated" : "Mídia alterada!'",
+            "choose_language" : "Escolha um idioma:'",
+            "language_set" : "Idioma alterado!",
+            "invalid_language" : "Idioma escolhido não disponível.'",
+            "invalid_media_type" : "Este tipo tipo não é aceito.",
+            "incomplete_clip_error" : "Não é possível salvar clip sem mídia ou descrição.",
+            "clip_saved" : "Mídia salva com sucesso!",
+            "unexpected_action" : "Ação inesperada.",
+            "cancel" : "Ação cancelada."
+       }
+    },
+    {
+        "inner_name" : "english",
+        "view_name" : "English",
+        "prompts" : {
+            "start" : "To start, send a description or a media (photo, video, gif, sticker) or both to save.",
+            "send_description" : "Send a message with the description to this media.",
+            "send_media" : "Send the media (photo, video, gif, sticker) descripted by the message.",
+            "description_updated" : "Description updated!",
+            "media_updated" : "Media Updated!",
+            "choose_language" : "Choose language:",
+            "language_set" : "Language updated!",
+            "invalid_language" : "Choosen language is not supported.",
+            "invalid_media_type" : "This type of media is not supported.",
+            "incomplete_clip_error" : "Can not save a clip with no media or description.",
+            "clip_saved" : "Media uploaded sucessfully!",
+            "unexpected_action" : "Action not expected.",
+            "cancel" : "Action canceled"
+        }
+    }
+]
